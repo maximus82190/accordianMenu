@@ -30,7 +30,7 @@
 
 .panel {
   padding: 0 18px;
-  background-color: white;
+  background-color: rgba(86, 217, 234, 0.163);
   overflow: hidden;
   max-height: 0;
   transition: max-height 0.2s ease-out;
