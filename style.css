@@ -25,7 +25,8 @@
 }
 
 .active {
-  width: 50%;
+  width: 10%;
+  border-radius: 50%;
 }
 
 .active:after {
